@@ -8,5 +8,8 @@
     <string name="todo">TODO</string>
     <string name="textview">TextView</string>
     <string name="log_out">Log Out</string>
+    <string name="item">Item</string>
+    <string name="what_s_happening">What\'s happening?</string>
+    <string name="tweet">Tweet</string>
 
 </resources>
